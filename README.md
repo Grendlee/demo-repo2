@@ -13,5 +13,3 @@ Watch tutorial on youtube.
 ## AddedFeature2
 
 Hello!
-
-
