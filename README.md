@@ -1,15 +1,5 @@
-# Demo 2
+<p>hello</p>
 
-Some text
-
-# Subheader
-
-Watch tutorial on youtube.
-
-## AddedFeature
+## Local Development
 
 1. Open index.html in your browser.
-
-## AddedFeature2
-
-Hello!
